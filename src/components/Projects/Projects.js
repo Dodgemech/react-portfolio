@@ -7,7 +7,7 @@ import note from "../../Assets/Projects/note.jpg";
 import ultimate from "../../Assets/Projects/ultimate.JPG";
 import team from "../../Assets/Projects/team.JPG"
 import quiz from "../../Assets/Projects/quiz.JPG";
-import globogains from "../../Assets/Projects/globogains.jpg"
+import globogains from "../../Assets/Projects/globogains.JPG"
 
 function Projects() {
   return (
@@ -22,9 +22,10 @@ function Projects() {
             <ProjectCard
               imgPath={globogains}
               isBlog={false}
-              title="GloboGains"
-              description="Updates to be made shortly (placeholder)"
-              link=""
+              title="Globo Gains"
+              description="A Gym buddy application made with the GARMEN stack based on the hit movie Dodgeball. Track your progress, share it in the community blog and see our list of recommended workouts!"
+              link="https://github.com/palminski/perfidious-gains-goblins"
+              link2="https://globogains.herokuapp.com/"
             />
           </Col>
           <Col md={4} className="project-card">
