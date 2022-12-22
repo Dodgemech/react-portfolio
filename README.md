@@ -42,7 +42,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 - Express.js
 - VSCode
 ## Screenshot
-![localhost_3000_](https://user-images.githubusercontent.com/107086158/208275954-37016c5d-70fe-4099-a553-8ff1659b42c3.png)
+![dodgemech github io_ (2)](https://user-images.githubusercontent.com/107086158/208282821-2a4e8fb5-78e4-40e4-885b-a7b50cdbc3fe.png)
 ## Deployment
-
+https://dodgemech.github.io/react-portfolio
 
