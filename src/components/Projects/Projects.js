@@ -7,7 +7,7 @@ import note from "../../Assets/Projects/note.jpg";
 import ultimate from "../../Assets/Projects/ultimate.JPG";
 import team from "../../Assets/Projects/team.JPG"
 import quiz from "../../Assets/Projects/quiz.JPG";
-import globogains from "../../Assets/Projects/globogains.JPG"
+import globogains from "../../Assets/Projects/globogains.jpg"
 
 function Projects() {
   return (
