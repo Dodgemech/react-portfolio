@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.43cd7828.css",
-    "main.js": "/react-portfolio/static/js/main.902c79df.js",
+    "main.js": "/react-portfolio/static/js/main.4a2d3e35.js",
     "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/globogains.jpg": "/react-portfolio/static/media/globogains.3218aeac8a8beedb6949.jpg",
     "static/media/Portrait.jpg": "/react-portfolio/static/media/Portrait.a14d096d6d30911dc14a.jpg",
     "static/media/lair.JPG": "/react-portfolio/static/media/lair.928ab03d0c8bbf72c71f.JPG",
+    "static/media/TravisGeersResume.pdf": "/react-portfolio/static/media/TravisGeersResume.45c0bdbdd850b09620aa.pdf",
     "static/media/ultimate.JPG": "/react-portfolio/static/media/ultimate.04eb6f80357bd6f9561c.JPG",
-    "static/media/TravisGeersResume.pdf": "/react-portfolio/static/media/TravisGeersResume.b3872e01a281d0bcc125.pdf",
     "static/media/note.jpg": "/react-portfolio/static/media/note.008058babf29cdfaec6b.jpg",
     "static/media/planner.JPG": "/react-portfolio/static/media/planner.d7aad04d277853e8e125.JPG",
     "static/media/team.JPG": "/react-portfolio/static/media/team.d3462e8a1ddcf3202b60.JPG",
     "static/media/quiz.JPG": "/react-portfolio/static/media/quiz.f8fd6a72889f3a541041.JPG",
     "index.html": "/react-portfolio/index.html",
     "main.43cd7828.css.map": "/react-portfolio/static/css/main.43cd7828.css.map",
-    "main.902c79df.js.map": "/react-portfolio/static/js/main.902c79df.js.map",
+    "main.4a2d3e35.js.map": "/react-portfolio/static/js/main.4a2d3e35.js.map",
     "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43cd7828.css",
-    "static/js/main.902c79df.js"
+    "static/js/main.4a2d3e35.js"
   ]
 }
